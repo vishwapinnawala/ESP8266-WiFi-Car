@@ -13,7 +13,7 @@ https://www.flaticon.com/free-icon/mars-rover_81850
 https://stackoverflow.com/questions/11144370/using-mousedown-event-on-mobile-without-jquery-mobile
 
 
-
+https://github.com/IS-Rachinthana/ESP8266-WiFi-Car/edit/branch2/HTML%20Controller/Resources.txt
 
 
 
